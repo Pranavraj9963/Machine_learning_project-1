@@ -1,6 +1,4 @@
-﻿नक्की. तुझ्या **actual project — Random Forest + BiLSTM + NLP** — साठी GitHub वर professional दिसेल पण **simple English आणि medium length** असा `README.md` खाली देतो.
-
-# 📧 Smart Email Spam Detection
+﻿# 📧 Smart Email Spam Detection
 
 ## 📌 Project Overview
 
