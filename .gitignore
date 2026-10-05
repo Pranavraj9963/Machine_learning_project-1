@@ -1,0 +1,17 @@
+# Byte-compiled
+__pycache__/
+*.py[cod]
+
+# Virtual Environments
+venv/
+.venv/
+
+# Environment and secrets
+.env
+secrets.toml
+.streamlit/secrets.toml
+
+# OS and IDE files
+.DS_Store
+.idea/
+.vscode/
